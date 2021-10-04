@@ -6,4 +6,11 @@ Java
 C++
 Sql
 
+
+Python
+Angular
+
 thank you
+
+
+done with this file
